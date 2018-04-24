@@ -1,0 +1,5 @@
+<map id="btk::MotionBuilder" name="btk::MotionBuilder">
+<area shape="rect" id="node2" href="$classbtk_1_1_basic_motion_builder.html" title="Build segments&#39; motion by using the same segment defintion that define in the class StaticCalibration..." alt="" coords="200,5,355,32"/>
+<area shape="rect" id="node3" href="$classbtk_1_1_general_motion_builder.html" title="TODO." alt="" coords="192,56,363,83"/>
+<area shape="rect" id="node4" href="$classbtk_1_1_horn1987_point_sets_fitting_motion_builder.html" title="Motion builder based on the point sets fiting method of Horn (1987)." alt="" coords="181,107,373,149"/>
+</map>

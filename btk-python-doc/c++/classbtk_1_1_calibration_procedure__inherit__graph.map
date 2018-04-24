@@ -1,0 +1,7 @@
+<map id="btk::CalibrationProcedure" name="btk::CalibrationProcedure">
+<area shape="rect" id="node2" href="$classbtk_1_1_ehrig2006_functional_joint_calibration_procedure.html" title="Functional calibration procedure based on Ehrig et al. (2006)." alt="" coords="245,5,411,46"/>
+<area shape="rect" id="node3" href="$classbtk_1_1_gamage2002_functional_joint_calibration_procedure.html" title="Functional calibration procedure based on Gamage and Lasenby (2002)." alt="" coords="237,70,419,111"/>
+<area shape="rect" id="node4" href="$classbtk_1_1_general_calibration_procedure.html" title="TODO." alt="" coords="222,136,434,163"/>
+<area shape="rect" id="node5" href="$classbtk_1_1_principal_inertia_axes_calibration_procedure.html" title="Calibration procedure using principal axes of inertia from given point sets." alt="" coords="247,187,409,229"/>
+<area shape="rect" id="node6" href="$classbtk_1_1_static_calibration_procedure.html" title="TODO." alt="" coords="228,253,428,280"/>
+</map>

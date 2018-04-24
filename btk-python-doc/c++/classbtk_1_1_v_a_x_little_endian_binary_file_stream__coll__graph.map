@@ -1,0 +1,4 @@
+<map id="btk::VAXLittleEndianBinaryFileStream" name="btk::VAXLittleEndianBinaryFileStream">
+<area shape="rect" id="node2" href="$classbtk_1_1_binary_file_stream.html" title="An abstract class which read/write binary file in VAX and IEEE floating format with the corresponding..." alt="" coords="19,96,165,123"/>
+<area shape="rect" id="node3" href="$classbtk_1_1mmfstream.html" title="Provides an interface to read/write data from files as input/output streams." alt="" coords="35,5,149,32"/>
+</map>

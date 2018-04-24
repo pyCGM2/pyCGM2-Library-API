@@ -1,0 +1,7 @@
+<map id="btk::Chain" name="btk::Chain">
+<area shape="rect" id="node5" href="$classbtk_1_1_dynamic_chain.html" title="Chain of segments linked by joints and defined only by a proximal and distal segment." alt="" coords="5,304,133,331"/>
+<area shape="rect" id="node6" href="$classbtk_1_1_fixed_chain.html" title="Chain of segments defined during the construction of the chain and cannot be modified later..." alt="" coords="158,304,268,331"/>
+<area shape="rect" id="node2" href="$classbtk_1_1_data_object_labeled.html" title="DataObject with a label and a description." alt="" coords="63,155,219,181"/>
+<area shape="rect" id="node3" href="$classbtk_1_1_data_object.html" title="Input and output entry for processes in pipelines." alt="" coords="85,80,197,107"/>
+<area shape="rect" id="node4" href="$classbtk_1_1_object.html" title="Base for all objects which need to keep track of modified time." alt="" coords="98,5,184,32"/>
+</map>

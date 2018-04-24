@@ -1,0 +1,6 @@
+<map id="btk::BinaryFileStream" name="btk::BinaryFileStream">
+<area shape="rect" id="node2" href="$classbtk_1_1_i_e_e_e_big_endian_binary_file_stream.html" title="Class to read and write binary file encoded from a IEEE (BE) to a VAX (LE) and IEEE (LE..." alt="" coords="209,5,373,46"/>
+<area shape="rect" id="node3" href="$classbtk_1_1_i_e_e_e_little_endian_binary_file_stream.html" title="Class to read and write binary file encoded from a IEEE (LE) to a VAX (LE) and IEEE (LE..." alt="" coords="203,70,378,111"/>
+<area shape="rect" id="node4" href="$classbtk_1_1_native_binary_file_stream.html" title="Native binary file stream chosen by the used compiler." alt="" coords="200,136,381,163"/>
+<area shape="rect" id="node5" href="$classbtk_1_1_v_a_x_little_endian_binary_file_stream.html" title="Class to read and write binary file encoded from a VAX (LE) processor to a VAX (LE) and IEEE (LE..." alt="" coords="204,187,377,229"/>
+</map>

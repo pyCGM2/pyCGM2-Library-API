@@ -1,0 +1,4 @@
+<map id="btk::WrenchDirectionAngleFilter" name="btk::WrenchDirectionAngleFilter">
+<area shape="rect" id="node2" href="$classbtk_1_1_process_object.html" title="Interface to create a filter/process in a pipeline." alt="" coords="27,80,157,107"/>
+<area shape="rect" id="node3" href="$classbtk_1_1_object.html" title="Base for all objects which need to keep track of modified time." alt="" coords="49,5,135,32"/>
+</map>

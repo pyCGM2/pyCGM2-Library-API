@@ -1,0 +1,7 @@
+<map id="btk::AbstractMotion" name="btk::AbstractMotion">
+<area shape="rect" id="node2" href="$classbtk_1_1_data_object_labeled.html" title="DataObject with a label and a description." alt="" coords="55,203,211,229"/>
+<area shape="rect" id="node3" href="$classbtk_1_1_data_object.html" title="Input and output entry for processes in pipelines." alt="" coords="5,99,117,125"/>
+<area shape="rect" id="node4" href="$classbtk_1_1_object.html" title="Base for all objects which need to keep track of modified time." alt="" coords="15,13,101,40"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="146,99,227,125"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="126,6,252,47"/>
+</map>

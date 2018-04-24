@@ -1,0 +1,6 @@
+<map id="btk::GeneralCalibrationProcedure" name="btk::GeneralCalibrationProcedure">
+<area shape="rect" id="node2" href="$classbtk_1_1_frame_builder_manager.html" title="btk::FrameBuilderManager" alt="" coords="14,296,188,323"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="61,99,141,125"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="38,6,164,47"/>
+<area shape="rect" id="node6" href="$classbtk_1_1_calibration_procedure.html" title="Generic class to calibrate a model based on an acquisition and subject&#39;s informations." alt="" coords="213,296,381,323"/>
+</map>

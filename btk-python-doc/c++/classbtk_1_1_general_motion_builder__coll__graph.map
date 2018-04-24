@@ -1,0 +1,6 @@
+<map id="btk::GeneralMotionBuilder" name="btk::GeneralMotionBuilder">
+<area shape="rect" id="node2" href="$classbtk_1_1_frame_builder_manager.html" title="btk::FrameBuilderManager" alt="" coords="14,296,188,323"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="61,99,141,125"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="38,6,164,47"/>
+<area shape="rect" id="node6" href="$classbtk_1_1_motion_builder.html" title="Generic class to build segments&#39; motion from a Model, an acquisition and a LandmarksTranslator (optio..." alt="" coords="213,296,339,323"/>
+</map>

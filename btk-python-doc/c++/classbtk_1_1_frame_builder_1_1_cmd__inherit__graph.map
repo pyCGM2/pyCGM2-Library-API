@@ -1,0 +1,7 @@
+<map id="btk::FrameBuilder::Cmd" name="btk::FrameBuilder::Cmd">
+<area shape="rect" id="node2" href="$classbtk_1_1_frame_builder_1_1_marker_cmd.html" title="btk::FrameBuilder::\lMarkerCmd" alt="" coords="217,5,351,46"/>
+<area shape="rect" id="node3" href="$classbtk_1_1_frame_builder_1_1_or_cmd.html" title="btk::FrameBuilder::\lOrCmd" alt="" coords="217,70,351,111"/>
+<area shape="rect" id="node4" href="$classbtk_1_1_frame_builder_1_1_position_cmd.html" title="btk::FrameBuilder::\lPositionCmd" alt="" coords="217,135,351,177"/>
+<area shape="rect" id="node5" href="$classbtk_1_1_frame_builder_1_1_sum_cmd.html" title="btk::FrameBuilder::\lSumCmd" alt="" coords="217,201,351,242"/>
+<area shape="rect" id="node6" href="$classbtk_1_1_frame_builder_1_1_mean_cmd.html" title="btk::FrameBuilder::\lMeanCmd" alt="" coords="401,201,535,242"/>
+</map>
